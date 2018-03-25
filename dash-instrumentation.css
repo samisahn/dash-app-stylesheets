@@ -31,6 +31,10 @@ body{
     float: right;
 }
 
+.oscope {
+    border: 1px solid black;
+}
+
 .graph .Title{
   margin-top: 15px;
   border-bottom: 1px solid rgb(216, 216, 216);
