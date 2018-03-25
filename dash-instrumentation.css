@@ -32,7 +32,7 @@ body{
 }
 
 .oscope {
-    border: 1px solid black;
+    border: 2px solid rgb(216, 216, 216);
 }
 
 .graph .Title{
