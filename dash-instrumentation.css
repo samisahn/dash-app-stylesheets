@@ -31,6 +31,19 @@ body{
     float: right;
 }
 
+.graph .Title{
+  margin-top: 15px;
+  border-bottom: 1px solid rgb(216, 216, 216);
+}
+
+.graph .Title h3{
+    font-size: 1.75rem;
+    color: rgb(66, 196, 247);
+    border-bottom: rgb(216, 216, 216);
+    margin-top: 3px;
+    margin-left: 10px;
+    margin-bottom: 3px;
+}
 /* .banner Img{
     position: relative;
     float: right;
