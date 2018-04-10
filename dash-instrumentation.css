@@ -8,7 +8,7 @@ body{
     font-size: 1.5em;
     line-height: 1.6;
     font-weight: 400;
-    font-family: Raleway, HelveticaNeue, "Helvetica Neue", Helvetica, Arial,sans-serif;
+    font-family: Dosis, Raleway, HelveticaNeue, "Helvetica Neue", Helvetica, Arial,sans-serif;
     color: #222;
 }
 
@@ -18,6 +18,13 @@ body{
     margin: 0px -10px 10px;
     background-color: rgb(66, 196, 247);
 }
+
+/* .banner Img{
+    position: relative;
+    float: right;
+    right: 10px;
+    height: 75px;
+} */
 
 .banner h2{
     color: white;
@@ -32,7 +39,7 @@ body{
 }
 
 #oscope {
-    /* border: 2px solid rgb(216, 216, 216); */
+    border-top: 2px solid rgb(216, 216, 216);
 }
 
 .graph .Title{
@@ -48,12 +55,6 @@ body{
     margin-left: 10px;
     margin-bottom: 3px;
 }
-/* .banner Img{
-    position: relative;
-    float: right;
-    right: 10px;
-    height: 75px;
-} */
 
 .power-settings-tab .Title{
   margin-top: 15px;
