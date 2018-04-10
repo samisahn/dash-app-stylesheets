@@ -39,12 +39,12 @@ body{
 }
 
 #oscope {
-    border-top: 2px solid rgb(216, 216, 216);
+    /* border-top: 2px solid rgb(216, 216, 216); */
 }
 
 .graph .Title{
   margin-top: 15px;
-  border-bottom: 1px solid rgb(216, 216, 216);
+  /* border-bottom: 1px solid rgb(216, 216, 216); */
 }
 
 .graph .Title h3{
