@@ -16,7 +16,7 @@ body{
     height: 75px;
     margin: -10px 0 0 0;
     margin: 0px -10px 10px;
-    background-color: rgb(66, 196, 247);
+    background-color: #119DFF;
 }
 
 /* .banner Img{
@@ -28,7 +28,7 @@ body{
 
 .banner h2{
     color: white;
-    padding-top: 10px;
+    /* padding-top: 10px; */
     margin-left: 2%;
     display: inline-block;
     text-align: center;
@@ -43,6 +43,7 @@ body{
 }
 
 .graph .Title{
+  font-size: 38px;
   margin-top: 15px;
   border-bottom: 1px solid rgb(216, 216, 216);
 }
@@ -63,7 +64,7 @@ body{
 
 .power-settings-tab .Title h3{
     font-size: 1.75rem;
-    color: rgb(66, 196, 247);
+    color: #119DFF;
     border-bottom: rgb(216, 216, 216);
     margin-top: 3px;
     margin-left: 10px;
