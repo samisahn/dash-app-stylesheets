@@ -21,12 +21,11 @@ input[type="radio"] {
     height: 75px;
     margin: -10px 0 0 0;
     margin: 0px -10px 10px;
-    background-color: #119DFF;
+    background-color: #447EFF;
 }
 
 .banner h2{
     color: white;
-    /* padding-top: 10px; */
     margin-left: 2%;
     display: inline-block;
     text-align: center;
@@ -44,7 +43,7 @@ input[type="radio"] {
 
 .graph .Title h3{
     font-size: 1.75rem;
-    color:  #119DFF;
+    color:  #447EFF;
     border-bottom: rgb(216, 216, 216);
     margin-top: 3px;
     margin-left: 10px;
@@ -58,7 +57,7 @@ input[type="radio"] {
 
 .power-settings-tab .Title h3{
     font-size: 1.75rem;
-    color: #119DFF;
+    color: #447EFF;
     border-bottom: rgb(216, 216, 216);
     margin-top: 3px;
     margin-left: 10px;
