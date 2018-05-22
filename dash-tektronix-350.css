@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-body{
+body {
     font-size: 1.5em;
     line-height: 1.6;
     font-weight: 400;
@@ -31,17 +31,17 @@ input[type="radio"] {
     text-align: center;
 }
 
-.graph {
+.right-panel {
     float: right;
 }
 
-.graph .Title{
+.right-panel .Title {
   font-size: 38px;
   margin-top: 15px;
   border-bottom: 1px solid rgb(216, 216, 216);
 }
 
-.graph .Title h3{
+.right-panel .Title h3 {
     font-size: 1.75rem;
     color:  #447EFF;
     border-bottom: rgb(216, 216, 216);
@@ -50,12 +50,12 @@ input[type="radio"] {
     margin-bottom: 3px;
 }
 
-.power-settings-tab .Title{
+.power-settings-tab .Title {
   margin-top: 15px;
   border-bottom: 1px solid rgb(216, 216, 216);
 }
 
-.power-settings-tab .Title h3{
+.power-settings-tab .Title h3 {
     font-size: 1.75rem;
     color: #447EFF;
     border-bottom: rgb(216, 216, 216);
