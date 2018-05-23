@@ -18,8 +18,9 @@ input[type="radio"] {
     margin: 0px 5px;
 }
 
-#tabs div {
-  background-color: #A2B1C6;
+.seven columns .right-panel > div > div > div {
+    background: #A2B1C6 !important;
+    color: white !important;
 }
 
 .banner {
