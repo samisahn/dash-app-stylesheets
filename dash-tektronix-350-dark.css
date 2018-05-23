@@ -26,7 +26,7 @@ input[type="radio"] {
 }
 
 .banner h2{
-    color: white;
+    color: #2a3f5f;
     margin-left: 2%;
     display: inline-block;
     text-align: center;
@@ -44,7 +44,6 @@ input[type="radio"] {
 
 .right-panel .Title h3 {
     font-size: 1.75rem;
-    color:  #447EFF;
     border-bottom: rgb(216, 216, 216);
     margin-top: 3px;
     margin-left: 10px;
@@ -58,7 +57,6 @@ input[type="radio"] {
 
 .power-settings-tab .Title h3 {
     font-size: 1.75rem;
-    color: #447EFF;
     border-bottom: rgb(216, 216, 216);
     margin-top: 3px;
     margin-left: 10px;
