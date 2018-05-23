@@ -18,6 +18,10 @@ input[type="radio"] {
     margin: 0px 5px;
 }
 
+.tabs div {
+  background-color: #506784;
+}
+
 .banner {
     height: 75px;
     margin: -10px 0 0 0;
