@@ -18,8 +18,8 @@ input[type="radio"] {
     margin: 0px 5px;
 }
 
-.tabs div {
-  background-color: #506784;
+#tabs div {
+  background-color: #A2B1C6;
 }
 
 .banner {
@@ -65,4 +65,8 @@ input[type="radio"] {
     margin-top: 3px;
     margin-left: 10px;
     margin-bottom: 3px;
+}
+
+#dash-undo-redo{
+    display: none
 }
