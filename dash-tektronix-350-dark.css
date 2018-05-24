@@ -28,11 +28,11 @@ input[type="radio"] {
     height: 75px;
     margin: -10px 0 0 0;
     margin: 0px -10px 10px;
-    background-color: #EBF0F8;
+    background-color: #1d1d1d;
 }
 
 .banner h2{
-    color: #2a3f5f;
+    color: #EBF0F8;
     margin-left: 2%;
     display: inline-block;
     text-align: center;
