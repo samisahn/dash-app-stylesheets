@@ -38,6 +38,13 @@ input[type="radio"] {
     text-align: center;
 }
 
+.banner Img{
+    position: relative;
+    float: right;
+    right: 10px;
+    height: 75px;
+}
+
 .right-panel {
     float: right;
 }
