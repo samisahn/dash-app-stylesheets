@@ -31,6 +31,13 @@ input[type="radio"] {
     text-align: center;
 }
 
+.banner Img{
+    position: relative;
+    float: right;
+    right: 10px;
+    height: 75px;
+}
+
 .right-panel {
     float: right;
 }
@@ -62,4 +69,8 @@ input[type="radio"] {
     margin-top: 3px;
     margin-left: 10px;
     margin-bottom: 3px;
+}
+
+._dash-undo-redo{
+    display: none
 }
