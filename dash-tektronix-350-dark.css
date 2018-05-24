@@ -18,9 +18,10 @@ input[type="radio"] {
     margin: 0px 5px;
 }
 
-.seven columns .right-panel > div > div > div {
-    background: #A2B1C6 !important;
-    color: white !important;
+.seven.right-panel > div:nth-child(2) > div > div {
+  background-color: #EBF0F8 !important;
+  text-transform: uppercase;
+  font-weight: 800;
 }
 
 .banner {
@@ -68,6 +69,6 @@ input[type="radio"] {
     margin-bottom: 3px;
 }
 
-#dash-undo-redo{
+._dash-undo-redo{
     display: none
 }
