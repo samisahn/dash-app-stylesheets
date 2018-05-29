@@ -17,27 +17,6 @@ input[type="radio"] {
     margin: 0px 5px;
 }
 
-.banner {
-    height: 75px;
-    margin: -10px 0 0 0;
-    margin: 0px -10px 10px;
-    background-color: #447EFF;
-}
-
-.banner h2{
-    color: white;
-    margin-left: 2%;
-    display: inline-block;
-    text-align: center;
-}
-
-.banner Img{
-    position: relative;
-    float: right;
-    right: 10px;
-    height: 75px;
-}
-
 .right-panel {
     float: right;
 }
@@ -69,6 +48,12 @@ input[type="radio"] {
     margin-top: 3px;
     margin-left: 10px;
     margin-bottom: 3px;
+}
+
+.seven.right-panel > div:nth-child(2) > div > div {
+  background-color: #ffffff !important;
+  text-transform: uppercase;
+  font-weight: 800;
 }
 
 ._dash-undo-redo{
