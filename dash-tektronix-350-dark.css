@@ -1,5 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #2a3f5f;
+    font-size: 1.5em;
+    line-height: 1.6;
+    font-weight: 400;
+    font-family: Dosis, Raleway, HelveticaNeue, "Helvetica Neue", Helvetica, Arial,sans-serif;
+    color: #ffffff;
+}
+
+input[type="radio"] {
+    display: inline;
+    margin: 0px 5px;
+}
+
 .seven.right-panel > div:nth-child(2) > div > div {
   background-color: #EBF0F8 !important;
   text-transform: uppercase;
   font-weight: 800;
+}
+
+.right-panel .Title {
+  font-size: 38px;
+  margin-top: 15px;
+  border-bottom: 1px solid rgb(216, 216, 216);
+}
+
+.right-panel .Title h3 {
+    font-size: 1.75rem;
+    border-bottom: rgb(216, 216, 216);
+    margin-top: 3px;
+    margin-left: 10px;
+    margin-bottom: 3px;
+}
+
+.power-settings-tab .Title {
+  margin-top: 15px;
+  border-bottom: 1px solid rgb(216, 216, 216);
+}
+
+.power-settings-tab .Title h3 {
+    font-size: 1.75rem;
+    border-bottom: rgb(216, 216, 216);
+    margin-top: 3px;
+    margin-left: 10px;
+    margin-bottom: 3px;
+}
+
+._dash-undo-redo{
+    display: none
 }
